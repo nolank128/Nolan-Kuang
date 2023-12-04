@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My ![Visitor Count](https://profile-counter.glitch.me/Nolan-Kuang/count.svg)visitors
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nolan-Kuang)](https://github.com/Nolan-Kuang/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nolan-Kuang&layout=compact)](https://github.com/Nolan-Kuang/github-readme-stats)
+
+
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nolan-Kuang&show_icons=true&theme=tokyonight)
+
 <!--
 **Nolan-Kuang/Nolan-Kuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
