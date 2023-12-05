@@ -1,6 +1,6 @@
 #  👋 Hello
 
-
+![](https://raw.githubusercontent.com/Nolan-Kuang/Nolan-Kuang/main/assets/github-contribution-grid-snake.svg)
 
 
 ### 🤺 About Me
