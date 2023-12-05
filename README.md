@@ -1,12 +1,17 @@
 #  👋 Hello
 
 
-
+ <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nolan-Kuang/Nolan-Kuang/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nolan-Kuang/Nolan-Kuang/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nolan-Kuang/Nolan-Kuang/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nolan-Kuang&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nolan-Kuang&layout=compact)](https://github.com/Nolan-Kuang/github-readme-stats)
 
 
 ### 🤺 About Me
@@ -51,12 +56,7 @@
     <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
   
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  </picture>
+ 
 
 </div>
 
@@ -73,10 +73,10 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nolan-Kuang&layout=compact)](https://github.com/Nolan-Kuang/github-readme-stats)
 
 
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nolan-Kuang&show_icons=true&theme=tokyonight)
+
+
 
 
 <!--
