@@ -10,8 +10,9 @@
 
 
 
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nolan-Kuang&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nolan-Kuang&layout=compact)](https://github.com/Nolan-Kuang/github-readme-stats)
+[![Angola peng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nolan-Kuang&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Angola peng's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nolan-Kuang&layout=compact&hide_border=true&langs_count=10)
+
 
 
 ### 🤺 About Me
