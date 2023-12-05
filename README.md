@@ -73,8 +73,6 @@ My ![Visitor Count](https://profile-counter.glitch.me/Nolan-Kuang/count.svg)visi
 </td></tr>
 
 
-
-
 <tr><td>
 
 ### 🤾‍♂️ Funny Soul
@@ -106,15 +104,12 @@ My ![Visitor Count](https://profile-counter.glitch.me/Nolan-Kuang/count.svg)visi
 
 </div>
 
+</div>
 
-  
+
+
 <!-- GitHub 奖杯🏆 -->
 <div><img src="https://github-profile-trophy.vercel.app/?username=Nolan-Kuang&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
-
-<!-- GitHub 数据统计 -->
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nolan-Kuang&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-
-</div>
 
 
 <!--
