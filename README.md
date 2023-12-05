@@ -12,7 +12,9 @@
 
 <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
-  
+
+<div align="center">
+
 <!-- github 贡献总览图 -->
 [![Angola peng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nolan-Kuang&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![Angola peng's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nolan-Kuang&layout=compact&hide_border=true&langs_count=10)
@@ -20,14 +22,14 @@
 <!-- GitHub 奖杯🏆 -->
 <div><img src="https://github-profile-trophy.vercel.app/?username=Nolan-Kuang&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 
- <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nolan-Kuang/Nolan-Kuang/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nolan-Kuang/Nolan-Kuang/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nolan-Kuang/Nolan-Kuang/output/github-contribution-grid-snake.svg">
 </picture>
 
-
+</div>
 
 <div align="center">
   <!-- profile logo 个人资料徽标 -->
