@@ -1,4 +1,41 @@
-### Hi there 👋
+#  👋 Hello
+
+<table>
+  
+<tr><td>
+
+### 🤺 About Me
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
+
+<p>&emsp;&emsp;大家好，我是阿豪。</p>
+<p>&emsp;&emsp;热爱看书、听播客、徒步、旅行。</p>
+<p>&emsp;&emsp;靠天吃饭自由人、数字游民、心惊胆战创业者</p>
+<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+
+</td></tr>
+
+
+<tr><td>
+
+### 🤾‍♂️ Funny Soul
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
+
+<!-- START_SECTION:douban -->
+* <a href='https://book.douban.com/subject/35193035/' target='_blank'>读过认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10
+* <a href='https://book.douban.com/subject/27040433/' target='_blank'>最近在读极简主义</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10
+* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+* <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+* <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+<!-- END_SECTION:douban -->
+
+</td></tr>
+
+</table>
+
+
+
 
 My ![Visitor Count](https://profile-counter.glitch.me/Nolan-Kuang/count.svg)visitors
 
@@ -54,53 +91,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/Nolan-Kuang/count.svg)visi
 
 
 
-#  🙋 Hello
 
-<table>
-  
-<tr><td>
-
-### 🤺 About Me
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
-
-<p>&emsp;&emsp;大家好，我是阿豪。</p>
-<p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
-
-</td></tr>
-
-
-<tr><td>
-
-### 🤾‍♂️ Funny Soul
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
-
-<!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/35193035/' target='_blank'>读过认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10
-* <a href='https://book.douban.com/subject/27040433/' target='_blank'>最近在读极简主义</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10
-* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-<!-- END_SECTION:douban -->
-
-</td></tr>
-
-
-
-
-
-
-
-<!-- GitHub Activity Graph GitHub 活动图 -->
-<table>
-  <tr>
-     
-  </tr>
-</table>
 
 </div>
 
