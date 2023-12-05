@@ -52,6 +52,8 @@ My ![Visitor Count](https://profile-counter.glitch.me/Nolan-Kuang/count.svg)visi
 
 </div>
 
+
+
 #  🙋 Hello
 
 <table>
@@ -98,12 +100,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/Nolan-Kuang/count.svg)visi
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
   <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Nolan-Kuang&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Nolan-Kuang&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nolan-Kuang&theme=xcode&bg_color=FF000000&hide_border=true" />
-      </picture>
+     
   </tr>
 </table>
 
