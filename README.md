@@ -2,7 +2,7 @@
 
 - 😊 大家好，我是阿豪
 - 🌱 热爱看书、冥想、听播客、徒步、旅行
-- 👯 I’m looking to collaborate on ...
+- 👯 喜欢交朋友。所以如果你想打个招呼，我很高兴能再认识你！
 
 
 <div align="center">
