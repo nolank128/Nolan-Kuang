@@ -15,7 +15,7 @@
     <a href=""><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <a href=""><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=Nolan-Kuang&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+    <img src="https://komarev.com/ghpvc/?username=nolank128&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 </div>
 
@@ -26,24 +26,24 @@
 <div align="center">
 
 <!-- github 贡献总览图 -->
-[![Angola peng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nolan-Kuang&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![Angola peng's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nolan-Kuang&layout=compact&hide_border=true&langs_count=10)
+[![Angola peng's GitHub stats](https://github-readme-stats.vercel.app/api?username=nolank128&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Angola peng's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nolank128&layout=compact&hide_border=true&langs_count=10)
 
 <!-- GitHub 奖杯🏆 -->
-<div><img src="https://github-profile-trophy.vercel.app/?username=Nolan-Kuang&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
+<div><img src="https://github-profile-trophy.vercel.app/?username=nolank128&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nolan-Kuang/Nolan-Kuang/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nolan-Kuang/Nolan-Kuang/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nolan-Kuang/Nolan-Kuang/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nolank128/nolank128/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nolank128/nolank128/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nolank128/nolank128/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
 
 
 <!--
-**Nolan-Kuang/Nolan-Kuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nolank128/nolank128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
